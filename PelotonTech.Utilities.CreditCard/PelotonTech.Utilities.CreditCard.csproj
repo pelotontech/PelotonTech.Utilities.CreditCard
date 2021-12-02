@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>1.0.0</PackageVersion>
+        <Authors>Peloton Technologies, Inc.</Authors>
+        <Copyright>2021</Copyright>
+        <PackageProjectUrl>https://peloton-technologies.com/</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/pelotontech/PelotonTech.Utilities.CreditCard</RepositoryUrl>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="obj" />
+    </ItemGroup>
+
+</Project>
